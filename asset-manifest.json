@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/T-code-hub/static/css/main.6c98aa75.css",
+    "main.js": "/T-code-hub/static/js/main.9c7b9694.js",
+    "static/media/1.png": "/T-code-hub/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/4.jpg": "/T-code-hub/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/T-code-hub/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/T-code-hub/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/T-code-hub/index.html",
+    "main.6c98aa75.css.map": "/T-code-hub/static/css/main.6c98aa75.css.map",
+    "main.9c7b9694.js.map": "/T-code-hub/static/js/main.9c7b9694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c98aa75.css",
+    "static/js/main.9c7b9694.js"
+  ]
+}
